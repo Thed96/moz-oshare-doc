@@ -57,7 +57,8 @@ Step By Step Guide For Windows:
 
 - Read the OnionShare license agreements and accept the terms to proceed.
 
-- Click the Install button and the Installation may take a few minutes. // user<br><br>
+- Click the Install button and the Installation may take a few minutes.
+-<br><br>
   
 #  
 <br>
